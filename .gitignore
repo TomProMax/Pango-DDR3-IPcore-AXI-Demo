@@ -1,0 +1,11 @@
+*.log
+*.temp
+/compile
+/constraint_backup
+/device_map
+/log
+/logbackup
+/place_route
+/report_timing
+/generate_bitstream
+/synthesize
